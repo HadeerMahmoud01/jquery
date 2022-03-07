@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+p{
+    background-color: orangered;
+    font-size: 25px;
+    color: white;
+    width: 25%;
+}
